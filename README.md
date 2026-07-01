@@ -6,23 +6,45 @@ I build and ship complete web applications end to end — from database schema t
 
 Actively looking for a full-stack engineering role where I can build real products and grow fast.
 
-### How I build
+### ⚡ How I build
 - **End to end, deployed.** If it isn't live and usable, it isn't done.
 - **Fundamentals first.** Auth done right, every query scoped per user, validation on the server — not an afterthought.
 - **Learn by shipping.** I pick real problems and build my way to the answer.
 - **AI as a tool, not a gimmick.** Integrating LLM/AI APIs into products that genuinely use them.
 
-### What I work with
-- **Languages:** TypeScript, JavaScript
-- **Frontend:** React, Next.js (App Router), Tailwind CSS
-- **Backend:** Node.js, PostgreSQL, Prisma, Auth.js
-- **Tooling & deploy:** Git, Vercel, Neon
+### 🛠️ What I work with
 
-### Currently
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-1A1A1A?style=for-the-badge&logoColor=white)
+
+**Tooling & Deploy**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+### 🚀 Currently
 Deepening AI integration (retrieval + LLM APIs), sharpening system design and TypeScript, and building the next project in my pipeline.
 
-### Featured project
+### 📌 Featured project
 **[Huntboard](https://huntboard-ten.vercel.app)** — a full-stack job-application pipeline tracker with per-user auth, a drag-and-drop kanban board, and a stats dashboard. Built with Next.js, TypeScript, Prisma, and Auth.js.
 
-### Reach me
-[Email](satishhh360@gmail.com) · [LinkedIn](https://linkedin.com/in/satish-tiwari-37a20924b)
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satish-tiwari-37a20924b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishhh360@gmail.com)
