@@ -32,6 +32,11 @@ Actively looking for a full-stack engineering role where I can build real produc
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-1A1A1A?style=for-the-badge&logoColor=white)
 
+**AI & Data**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Tooling & Deploy**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,9 +44,12 @@ Actively looking for a full-stack engineering role where I can build real produc
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
 ### 🚀 Currently
-Deepening AI integration (retrieval + LLM APIs), sharpening system design and TypeScript, and building the next project in my pipeline.
+Going deeper on retrieval systems and LLM app design, sharpening system design and TypeScript, and lining up the next build.
 
-### 📌 Featured project
+### 📌 Featured projects
+
+**[Recall](https://recall-seven-tan.vercel.app/)** — a RAG study assistant. Upload your notes and lecture PDFs, then ask questions and get answers grounded in your own material *with citations to the source* — plus auto-generated quizzes and flashcards. Built with Next.js, TypeScript, PostgreSQL + pgvector, Gemini, and Auth.js.
+
 **[Huntboard](https://huntboard-ten.vercel.app)** — a full-stack job-application pipeline tracker with per-user auth, a drag-and-drop kanban board, and a stats dashboard. Built with Next.js, TypeScript, Prisma, and Auth.js.
 
 ### 📫 Reach me
